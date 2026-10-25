@@ -1,3 +1,7 @@
+<div align="center">
+  <img src=".github/assets/banner.svg" alt="dynamicbar — Dynamic Island for Windows: media, notifications, timer." width="100%">
+</div>
+
 # DynamicBar
 
 A Dynamic Island for Windows. A pill at the top (or bottom) of your screen that expands into media controls, notifications, a timer, quick actions and system status.
